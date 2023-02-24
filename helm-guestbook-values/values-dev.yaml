@@ -6,4 +6,4 @@ resources:
    cpu: 100m
    memory: 128M
 
-replicaCount: 1
+replicaCount: 2
